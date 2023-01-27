@@ -1,5 +1,28 @@
 {
   "dependencies": {
-    "inquirer": "^9.1.4"
-  }
+    "console.table": "^0.10.0",
+    "inquirer": "^9.1.4",
+    "mysql2": "^3.0.1"
+  },
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A cmd line app used to manage a company's database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakem64/Employee-Tracker.git"
+  },
+  "keywords": [
+    "employee",
+    "tracker"
+  ],
+  "author": "blake madson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakem64/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/blakem64/Employee-Tracker#readme"
 }
